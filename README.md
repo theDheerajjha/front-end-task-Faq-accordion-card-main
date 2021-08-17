@@ -1,2 +1,2 @@
 # front-end-task-Faq-accordion-card-main
-Another task , will create Accordion using JS
+Another task , will design and create  an awesome Accordion using JS
